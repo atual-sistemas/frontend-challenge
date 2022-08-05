@@ -8,7 +8,7 @@ O objetivo deste desafio é avaliar suas habilidades de programação.
 Quando sua solução estiver pronta, basta responder o e-mail que recebeu com o link do seu repo aqui no Github!
 Em seguida, enviaremos o feedback e as instruções dos próximos passos!
 
-Caso tenha alguma dúvida, nós estamos disponíveis no email *alexsandermanzoli@gmail.com*
+Caso tenha alguma dúvida, nós estamos disponíveis nos emails *alexsandermanzoli@gmail.com*, *alcenir.santos@atualsistemas.com.br*
 Bom desafio!
 
 > ⚠️ **É importante que o seu repo esteja público, caso contrário não iremos conseguir avaliar sua resposta**
